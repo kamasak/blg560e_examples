@@ -5,8 +5,9 @@ If you see any problem in the samples, please send email to the instructor.
 **Lecture 2**
 
 - [decorrelate](lecture2/decorrelation.ipynb): How to decoralate 2 variables.
-- [transform rv distr](lecture2/rv_transform.ipynb): How to transform a random variable for a desired (target) distribution.
-- [descriptive_stat](lecture2/descriptive_stat.ipynb): How to obtain descriptive statistics
+- [transform rv distr](lecture2/rv_transform.ipynb): Demo of random variable transformation for a desired (target) distribution.
+- [descriptive_stat](lecture2/descriptive_stat.ipynb): Demo of descriptive statistics
+- [pp and qq plot](lecture2/pp_qq_plot.ipynb): Demo of pp-plot and qq-plot
 
 **Lecture 3**
 
