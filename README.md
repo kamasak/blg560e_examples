@@ -13,3 +13,7 @@ If you see any problem in the samples, please send email to the instructor.
 
 - [CLT demo](lecture3/clt_demo.ipynb): Demo of central limit theorem
 - [Visualization demo](lecture3/visualization_demo.ipynb): Demo of some visualization methods
+
+**Lecture 4**
+
+- [EM demo](lecture4/em_coin.ipynb): Demo of expectation maximization
