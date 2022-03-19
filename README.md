@@ -16,4 +16,5 @@ If you see any problem in the samples, please send email to the instructor.
 
 **Lecture 4**
 
+- [MLE demo](lecture4/mle_estimation.ipynb): Demo of MLE
 - [EM demo](lecture4/em_coin.ipynb): Demo of expectation maximization
