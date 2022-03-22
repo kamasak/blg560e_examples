@@ -1,6 +1,6 @@
 ## Example scripts and notebooks for BLG560E course
 
-If you see any problem in the exsamples, please send email to the instructor.
+If you see any problem in the examples, please fork this repo and correct the problem. After correction, start a pull request by describing the problem and how you fixed it.
 
 **Descriptive Statistics**
 
