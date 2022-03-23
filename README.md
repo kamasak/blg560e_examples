@@ -21,3 +21,7 @@ If you see any problem in the examples, please fork this repo and correct the pr
 
 - [MLE demo](point_estimation/mle_estimation.ipynb): Demo of MLE
 - [EM demo](point_estimation/em_coin.ipynb): Demo of expectation maximization
+
+**Interval Estimation**
+
+- [Mean interval estimation](interval_estimation/mean_interval_estimation.ipynb): Demo of confidence interval for population mean
