@@ -25,5 +25,6 @@ If you see any problem in the examples, please fork this repo and correct the pr
 **Interval Estimation**
 
 - [Interval estimation for mean](interval_estimation/mean_interval_estimation.ipynb): Demo of confidence interval for population mean
-- [Interval estimation for variance](interval_estimation/variance_interval_estimation.ipynb)
+- [Interval estimation for variance](interval_estimation/variance_interval_estimation.ipynb): Demo of confidence interval for population variance
+- [Interval estimation for proportion](interval_estimation/proportion_interval_estimation.ipynb): Demo of confidence interval for population proportion
 - [Continuity correction](interval_estimation/continuity_correction.ipynb): Demo of continuity correction for binomial to normal distribution approximation
