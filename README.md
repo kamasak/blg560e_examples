@@ -1,10 +1,10 @@
-## Example scripts and notebooks for BLG560E course
+## Example scripts and notebooks for "BLG560E - Statistics and Estimation for Computer Science" course
 
 If you see any problem in the examples, please fork this repo and correct the problem. After correction, start a pull request by describing the problem and how you fixed it.
 
 **Descriptive Statistics**
 
-- [decorrelate](descriptive_statistics/decorrelation.ipynb): How to decoralate 2 variables.
+- [decorrelate](descriptive_statistics/decorrelation.ipynb): How to decorrelate 2 variables.
 - [transform rv distr](descriptive_statistics/rv_transform.ipynb): Demo of random variable transformation for a desired (target) distribution.
 - [descriptive_stat](descriptive_statistics/descriptive_stat.ipynb): Demo of descriptive statistics
 - [pp and qq plot](descriptive_statistics/pp_qq_plot.ipynb): Demo of pp-plot and qq-plot
