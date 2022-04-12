@@ -28,3 +28,7 @@ If you see any problem in the examples, please fork this repo and correct the pr
 - [Interval estimation for variance](interval_estimation/variance_interval_estimation.ipynb): Demo of confidence interval for population variance
 - [Interval estimation for proportion](interval_estimation/proportion_interval_estimation.ipynb): Demo of confidence interval for population proportion
 - [Continuity correction](interval_estimation/continuity_correction.ipynb): Demo of continuity correction for binomial to normal distribution approximation
+
+**One Sample Hypothesis Testing**
+
+- [Why p-value is not enough](papers/why_p_value_is_not_enough.pdf): A paper that describes why p-value is not enough for scientific research
