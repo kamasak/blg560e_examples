@@ -32,3 +32,4 @@ If you see any problem in the examples, please fork this repo and correct the pr
 **One Sample Hypothesis Testing**
 
 - [Why p-value is not enough](papers/why_p_value_is_not_enough.pdf): A paper that describes why p-value is not enough for scientific research
+- [Hypothesis testing for population mean](one_sample_hypothesis_testing/mean_hypo_test.ipynb): Demo of simple and composite hypothesis testing for population mean
