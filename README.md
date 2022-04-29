@@ -37,3 +37,10 @@ If you see any problem in the examples, please fork this repo and correct the pr
 **Two Sample Hypothesis Testing**
 
 - [Hypothesis test of mean for two populations (variances known)](two_sample_hypothesis_testing/calculus_course_sections.ipynb): Demo of two sample hypothesis testing mean of two populations when population variances are known
+
+**Hypothesis Testing for Categorical Data**
+
+
+**Regression**
+
+- [Statistical Modelling - The Two Cultures](papers/statistical_modeling_two_cultures.pdf): A paper that describes the differences of statisticians' and computer scientists' point of view for modelling.
