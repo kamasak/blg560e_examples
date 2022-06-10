@@ -44,3 +44,13 @@ If you see any problem in the examples, please fork this repo and correct the pr
 **Regression**
 
 - [Statistical Modelling - The Two Cultures](papers/statistical_modeling_two_cultures.pdf): A paper that describes the differences of statisticians' and computer scientists' point of view for modelling.
+
+**Anova**
+
+**Non-parametric Methods**
+
+- Sign test
+- Wilcoxon sign rank test
+- Wilcoxon rank sum test
+- Runs test
+- Kruskal-Wallis test
