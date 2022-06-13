@@ -52,8 +52,8 @@ If you see any problem in the examples, please fork this repo and correct the pr
 
 **Non-parametric Methods**
 
-- Sign test
-- Wilcoxon sign rank test
+- [Sign test](nonparametric/sign_test.ipynb): Demo of sign test
+- [Wilcoxon sign rank test](nonparametric/sign_rank_test.ipynb): Demo of Wilcoxon sign rank test (needs implementation!)
 - Wilcoxon rank sum test
 - Runs test
 - Kruskal-Wallis test
