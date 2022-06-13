@@ -44,6 +44,7 @@ If you see any problem in the examples, please fork this repo and correct the pr
 **Regression**
 
 - [Statistical Modelling - The Two Cultures](papers/statistical_modeling_two_cultures.pdf): A paper that describes the differences of statisticians' and computer scientists' point of view for modelling.
+- [Simple linear regression](regression/simple_linear_regression_demo.ipynb): Demo of simple linear regression
 
 **Anova**
 
