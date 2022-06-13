@@ -47,6 +47,8 @@ If you see any problem in the examples, please fork this repo and correct the pr
 
 **Anova**
 
+- [Anova demo](anova/anova_demo.ipynb): Demo of analysis of variance (Anova) method
+
 **Non-parametric Methods**
 
 - Sign test
